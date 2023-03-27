@@ -4,7 +4,6 @@ import pandas as pd
 import altair as alt
 import os
 import numpy as np
-pip install folium-glify-layer
 import folium
 from folium.plugins import HeatMap
 from PIL import Image
