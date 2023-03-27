@@ -6,7 +6,6 @@ import os
 import numpy as np
 import folium
 from folium.plugins import HeatMap
-import io
 from PIL import Image
 from streamlit_folium import folium_static
 
